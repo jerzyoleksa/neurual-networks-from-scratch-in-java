@@ -1,4 +1,4 @@
-# neural networks
+# understanding neural networks
 Neural networks and the Math behind it
 
 1. neural networks let you find functions that will describe your input and ouput data
